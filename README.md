@@ -1,2 +1,4 @@
-# html_fundamentals
+# testing myself
 html practice
+basic python calc
+
